@@ -1,0 +1,29 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: rgb(247, 110, 110);
+  border-radius: 0px;
+  border: 0px;
+}
+#nav-head {    /* nane of the company*/  
+  font-size: 40px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu {
+  font-size: 300%;
+}
+.section {
+  background-color: rgb(27, 15, 37);
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+li {
+    text-align: center;
+}
